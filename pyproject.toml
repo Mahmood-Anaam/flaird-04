@@ -30,7 +30,7 @@ dependencies = [
 ]
 
 [project.urls]
-repository = "https://github.com/Mahmood-Anaam/flaird-04"
+repository = "https://github.com/Mahmood-Anaam/flaird"
 
 [project.scripts]
 flaird-train = "flaird.scripts.train:main"
